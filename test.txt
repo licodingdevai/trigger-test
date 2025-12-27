@@ -1,4 +1,0 @@
-Bu bir test dosyasidir.
-Ikinci push testi.
-Ucuncu push testi.
-Dorduncu push testi.
